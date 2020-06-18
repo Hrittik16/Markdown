@@ -21,7 +21,7 @@ __This text__ is strong
 ~~This text~~ is strikethrough
 
 
-<!-- Horizontal Rule -->
+<!-- Horizontal Rule (3 underscores)-->
 ___
 
 
@@ -84,6 +84,7 @@ int main() {
 * [x] Task 1
 * [x] Task 2
 * [ ] Task 3
+
 
 
 
